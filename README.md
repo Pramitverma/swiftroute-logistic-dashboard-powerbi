@@ -10,7 +10,8 @@
 
 **[Live Dashboard](#) • [Documentation](#project-structure) • [Report Issues](#)**
 
-![Dashboard Preview][(assets/dashboard-preview.png)](https://github.com/Pramitverma/swiftroute-logistic-dashboard-powerbi/blob/main/Screenshot%202026-02-06%20170928.png)
+![Dashboard Preview]<img width="1270" height="748" alt="image" src="https://github.com/user-attachments/assets/d112dc3d-36c4-4a76-8648-ccb0f9651389" />
+
 
 *A comprehensive business intelligence solution for logistics operations analysis*
 
