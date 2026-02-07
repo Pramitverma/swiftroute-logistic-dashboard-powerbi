@@ -435,7 +435,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Hubs Overview
-![Hubs Overview](Screenshots/hubs_overview.png)
+![Hubs Overview]<img width="1270" height="745" alt="image" src="https://github.com/user-attachments/assets/5377f9c6-6b64-468f-ac8e-08160fa5a046" />
+
 
 ### Vehicles Overview
 ![Vehicles Overview](Screenshots/vehicles_overview.png)
