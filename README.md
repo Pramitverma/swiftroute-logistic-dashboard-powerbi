@@ -439,7 +439,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Vehicles Overview
-![Vehicles Overview](Screenshots/vehicles_overview.png)
+![Vehicles Overview]<img width="1268" height="744" alt="image" src="https://github.com/user-attachments/assets/f3993c41-d75c-4693-a70f-b6a093052364" />
+
 
 </details>
 
