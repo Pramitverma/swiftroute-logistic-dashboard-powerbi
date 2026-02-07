@@ -428,7 +428,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <summary><b>Click to view dashboard screenshots</b></summary>
 
 ### Main Dashboard
-![Main Dashboard](Screenshots/dashboard_main.png)
+![Main Dashboard]<img width="1270" height="748" alt="image" src="https://github.com/user-attachments/assets/bd88afd5-5412-4424-bffd-750a6ae0ab59" />
+
 
 ### Drivers Overview
 ![Drivers Overview]<img width="1274" height="742" alt="image" src="https://github.com/user-attachments/assets/6c1a5d93-bece-44a3-ae67-4fbbebef8d89" />
