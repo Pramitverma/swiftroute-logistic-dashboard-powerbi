@@ -431,7 +431,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Main Dashboard](Screenshots/dashboard_main.png)
 
 ### Drivers Overview
-![Drivers Overview](Screenshots/drivers_overview.png)
+![Drivers Overview]<img width="1274" height="742" alt="image" src="https://github.com/user-attachments/assets/6c1a5d93-bece-44a3-ae67-4fbbebef8d89" />
+
 
 ### Hubs Overview
 ![Hubs Overview](Screenshots/hubs_overview.png)
